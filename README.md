@@ -1,4 +1,4 @@
 # Netflix-Clone
 
 
-This is the core code from scratch to clone the landing page of Netflix using HTML, CSS
+This is the core code from scratch to clone the landing page of Netflix using HTML, CSS , JAVASCRIPT 
